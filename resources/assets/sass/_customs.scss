@@ -1,0 +1,15 @@
+.navbar-menu a {
+            font-size: 12px;
+            font-weight: bold;
+            padding-left: 10px;
+            cursor: pointer !important;
+            border-bottom: 1px solid transparent;
+            .edit {
+                padding: 6px 20px !important;
+            }
+            .but{
+                background:black;
+                color: #fff;
+                border-radius: 6px;
+      }
+}
